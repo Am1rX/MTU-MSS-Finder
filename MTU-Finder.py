@@ -60,4 +60,5 @@ def find_optimal_mtu(target="8.8.8.8"):
 
 if __name__ == "__main__":
     # You can change the target IP here
+
     find_optimal_mtu("8.8.8.8")
